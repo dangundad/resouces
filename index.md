@@ -1,4 +1,7 @@
+
 ## Welcome to GitHub Pages
+
+![이미지테스트](https://raw.githubusercontent.com/dangundad/resouces/master/images/noti_bg.png)
 
 You can use the [editor on GitHub](https://github.com/dangundad/resouces/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
